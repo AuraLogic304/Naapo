@@ -1,4 +1,4 @@
-# CLAUDE.md File
+# CLAUDE.md
 
 Project instructions for AI agents working in this repository. Read this fully before writing code.
 
